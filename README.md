@@ -2,22 +2,22 @@
 
 # HTML (HyperText Markup Language):
 
-Document Structure: The HTML document is well-structured and follows best practices for semantic HTML. It is divided into sections such as <head>, <body>, <header>, <main>, <aside>, and <footer>, which enhance accessibility and SEO.
+Document Structure: The HTML document is well-structured and follows best practices for semantic HTML. It is divided into sections such as 'head', 'body', 'header', 'main', 'aside', and 'footer', which enhance accessibility and SEO.
 
 ## Header:
 
-The <header> element contains essential elements like the website logo and navigation menu.
-The logo is linked using an <a> element with appropriate attributes.
-The navigation menu is represented as an unordered list <ul> with list items <li> that contain anchor links <a>. The use of unordered lists is a good practice for menu items.
+The header element contains essential elements like the website logo and navigation menu.
+The logo is linked using an 'a' element with appropriate attributes.
+The navigation menu is represented as an unordered list 'ul' with list items 'li' that contain anchor links 'a'. The use of unordered lists is a good practice for menu items.
 
 ## Main Content:
 
-The main content of the website is enclosed within the <main> element.
-Product listings are displayed in a grid layout, making use of <div> elements with class product. Each product has an image, title, description, price, and an "Add to Cart" button.
+The main content of the website is enclosed within the 'main' element.
+Product listings are displayed in a grid layout, making use of 'div' elements with class product. Each product has an image, title, description, price, and an "Add to Cart" button.
 
 ## Filters:
 
-Filters for sorting products by price, category, and brand are included within a <div> element with class filters. These filters use <select> elements for dropdown menus, enhancing user interactivity.
+Filters for sorting products by price, category, and brand are included within a 'div' element with class filters. These filters use 'select' elements for dropdown menus, enhancing user interactivity.
 Clear Filters button is also provided for user convenience.
 
 ## Shopping Cart:
